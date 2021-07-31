@@ -1,4 +1,4 @@
-##TinDog Website
+## TinDog Website
 
 https://agatha-sb.github.io/Tindog/
 
